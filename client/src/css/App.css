@@ -3,18 +3,18 @@
   }
   
 .profile {
-    text-align: left;
+    text-align: center;
     margin-bottom: 10px;
   }
 .profile-name {
-    text-align: left;
+    text-align: center;
     font-size: 33px;
   }
   
 .navigation {
     text-align: center;
-    margin-right: 100px;
-    margin-bottom: auto;
+    padding-top: 100px;
+
   }
   
 .body {
@@ -27,7 +27,6 @@
 .profile-image {
     width: 205px;
     float: right;
-
     margin: 10px 10px 30px 0;
     padding: 20px;
     shape-outside: circle();

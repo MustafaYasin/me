@@ -28,14 +28,13 @@ export default class App extends React.Component {
     );
   }
 
-  /***renderProfileImage() {
+  renderProfileImage() {
     return (
       <div className="profile">
-        <img src={profile} alt="profile" className="profile-image" />
         <div className="profile-name">Mustafa Yasin</div>
       </div>
     )
-  }***/
+  }
 
   renderNavigation() {
 
