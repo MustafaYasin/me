@@ -31,7 +31,6 @@ export default class Home extends React.Component {
           Previously, I worked as a research intern at <a href={kamijo}>The University of Tokyo (kamijo Lab)</a>,
           an undergradute research assistant at <a href={pku}>The Peking University</a>,
           and a software engineering intern/working student at <a href={siemens}>Siemens</a>,
-          I'm interested in machine learning, algorithms, and education.
           I'm interested in machine learning, robotics, algorithms, and education.
         </p>  
         <p>
