@@ -20,8 +20,8 @@ export default class Courses extends React.Component {
         <Timeline>
           <Timeline.Item>
             <p>
-              <b>Summer 2020</b>
-              <br/>Algorithms and Data Structure (Teaching Assistant, LMU Faculty of Computer Science)
+              <b>Summer Semester 2020</b>
+              <br/>Computer Science: Algorithms and Data Structures
             </p>
           </Timeline.Item>
         </Timeline>
@@ -33,76 +33,58 @@ export default class Courses extends React.Component {
 
     return (
       <div>
-        <h2>Courses I've Taken</h2>
+        <h2>Important Courses I've Taken</h2>
         <Timeline>
         <Timeline.Item>
             <p>
-              <b>Spring 2019</b>
-              <br/>Computer Science 191: Classics of Computer Science
-              <br/>Linguistics 106: Knowledge of Meaning
-              <br/>Linguistics 99b: Tutorial
-              <br/>History of Science 128: The Century of Physics
-            </p>
-            <p>
-              <b>Fall 2018</b>
-              <br/>Computer Science 153: Compilers
-              <br/>Linguistics 105: Sounds of Language
-              <br/>Computer Science 90ncr: Law for Algorithms
-              <br/>Computer Science 91r: Supervised Reading and Research (with Stuart Shieber)
+              <b>Winter Semester 2019-2020</b>
+              <br/>Computer Science: Deep Learning and Artificial Intelligence
+              <br/>Computer Science: Big Data Management and Analytics
             </p>
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Spring 2018</b>
-              <br/>Computer Science 152: Programming Languages
-              <br/>Linguistics 98b: Tutorial
-              <br/>United States in the World 42: The Democracy Project
-              <br/>Psychology 1002: Evolving Morality
+              <b>Sommer Semester 2019</b>
+              <br/>Computer Science: Machine Learning
+              <br/>Computer Science: Algorithms and Data Structures
+              <br/>Computer Science: Discrete Mathematics
+              <br/>Computer Science: Computer Architektur
             </p>
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Fall 2017</b>
-              <br/>Computer Science 182: Artificial Intelligence
-              <br/>Linguistics 102: Sentence Structure
-              <br/>Statistics 110: Introduction to Probability
-              <br/>Government 1510: American Constitutional Law
+              <b>Winter Semester 2018</b>
+              <br/>Computer Science: Database Systems 
+              <br/>Computer Science: Introduction to Programming in Java
+              <br/>Computer Science: Operating Systems
             </p>
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Spring 2017</b>
-              <br/>Computer Science 124: Data Structures and Algorithms
-              <br/>Linguistics 101: The Science of Language
-              <br/>Math 21b: Linear Algebra and Differential Equations
-              <br/>Science of the Physical Universe 22: The Unity of Science
+              <b>Sommer Semester 2018</b>
+              <br/>Mechatronics: Embedded Systems I
+              <br/>Mechatronics: Embedded Systems II
+              <br/>Computer Science: Advanced C++
+              <br/>Computer Science: Computer Networks
             </p>
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Fall 2016</b>
-              <br/>Computer Science 61: Systems Programming and Machine Organization
-              <br/>Computer Science 121: Introduction to the Theory of Computation
-              <br/>Math 21a: Multivariable Calculus
-              <br/>Culture and Belief 45: History of the English Language
+              <b>Winter Semester 2017 (Universtiy of Technology Sydney)</b>
+              <br/>Elective: Academic English
+              <br/>Computer Science: Testing and Quality Management
+              <br/>Computer Science: Embedded Software
+              <br/>Mechatronics: Finite Element Method
+              <br/>Mechatronics: Mechanism Design and Analysis
             </p>
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Spring 2016</b>
-              <br/>Computer Science 51: Abstraction and Design in Computation
-              <br/>Computer Science 20: Discrete Math for Computer Science
-              <br/>Empirical and Mathematical Reasoning 11: Language, Logic, and Interpretation
-              <br/>Latin Ab: Beginning Latin
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Fall 2015</b>
-              <br/>Computer Science 50: Introduction to Computer Science I
-              <br/>Economics 10a: Principles of Economics
-              <br/>Latin Aa: Beginning Latin
-              <br/>Expository Writing 20 - 220: Humans, Nature, and the Environment
+              <b>Sommer Semester 2017</b>
+              <br/>Mechatronics: Bachelor Thesis
+              <br/>Mechatronics: Mechatronics Integration
+              <br/>Mechatronics: Design Engineering II
+              <br/>Mechatronics: Manufacturing Engineering II
             </p>
           </Timeline.Item>
         </Timeline>
