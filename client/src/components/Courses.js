@@ -20,8 +20,8 @@ export default class Courses extends React.Component {
         <Timeline>
           <Timeline.Item>
             <p>
-              <b>Summer 2019</b>
-              <br/>Computer Science S-33a: Web Programming with Python and JavaScript (Instructor, Harvard Summer School)
+              <b>Summer 2020</b>
+              <br/>Computer Science: Algorithms and Data Structure (Teaching Assistant, LMU Faculty of Computer Science)
             </p>
           </Timeline.Item>
           <Timeline.Item>
