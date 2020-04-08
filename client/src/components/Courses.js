@@ -24,65 +24,6 @@ export default class Courses extends React.Component {
               <br/>Algorithms and Data Structure (Teaching Assistant, LMU Faculty of Computer Science)
             </p>
           </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Spring 2019</b>
-              <br/>Computer Science E-33a: Web Programming with Python and JavaScript (Instructor, Harvard Extension School)
-              <br/>Computer Science 124: Data Structures and Algorithms (Teaching Fellow, Harvard College)
-              <br/>Computer Science 51: Abstraction and Design in Computation (Teaching Fellow, Harvard College)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Winter 2019</b>
-              <br/>CS50 Beyond (Instructor, Harvard College Wintersession)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Fall 2018</b>
-              <br/>Computer Science 50: Introduction to Computer Science (Head Teaching Fellow, Harvard College)
-              <br/>Computer Science 100: Software Engineering in the Arts and Humanities (Head Teaching Fellow, Harvard College)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Spring 2018</b>
-              <br/>Computer Science E-33a: Web Programming with Python and JavaScript (Instructor, Harvard Extension School)
-              <br/>Computer Science 20: Discrete Mathematics for Computer Science (Teaching Fellow, Harvard College)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Fall 2017</b>
-              <br/>Computer Science 50: Introduction to Computer Science I (Head Course Assistant, Harvard College)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Summer 2017</b>
-              <br/>Computer Science P-14300: Introduction to Web Programming (Teaching Fellow, Harvard Summer School)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Spring 2017</b>
-              <br/>Computer Science 51: Abstraction and Design in Computation (Teaching Fellow, Harvard College)
-              <br/>Computer Science E-50: Intensive Introduction to Computer Science (Course Assistant, Harvard Extension School)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Fall 2016</b>
-              <br/>Computer Science 50: Introduction to Computer Science I (Teaching Fellow, Harvard College)
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Summer 2016</b>
-              <br/>Computer Science P-14300: Introduction to Web Programming (Teaching Fellow, Harvard Summer School)
-            </p>
-          </Timeline.Item>
         </Timeline>
       </div>
     );
