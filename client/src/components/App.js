@@ -9,8 +9,8 @@ import Projects from "./Projects";
 import Section from "./Section";
 import Analytics, { logResource } from "../Analytics";
 
-import profile from "../assets/profile.png";
-import "../css/App.css";
+/***import profile from "../assets/profile.png";
+import "../css/App.css";***/
 
 const ButtonGroup = Button.Group;
 
@@ -20,7 +20,7 @@ export default class App extends React.Component {
     return (
       <Router>
         <div className="app">
-          {this.renderProfileImage()}
+       {/*{this.renderProfileImage()}*/}
           {this.renderNavigation()}
           {this.renderRoutes()}
         </div>
@@ -28,14 +28,14 @@ export default class App extends React.Component {
     );
   }
 
-  renderProfileImage() {
+  /***renderProfileImage() {
     return (
       <div className="profile">
         <img src={profile} alt="profile" className="profile-image" />
         <div className="profile-name">Mustafa Yasin</div>
       </div>
     )
-  }
+  }***/
 
   renderNavigation() {
 
