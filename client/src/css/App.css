@@ -7,8 +7,9 @@
     margin-bottom: 10px;
   }
 .profile-name {
-    text-align: center;
+    text-align: left;
     font-size: 33px;
+    padding-top: 100px;
   }
   
 .navigation {
