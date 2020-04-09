@@ -8,12 +8,22 @@ export default class Home extends React.Component {
   render() {
     return (
       <div className="home">
+        {this.renderProfileImage()}
         {this.renderHello()}
         {this.renderContact()}
       </div>
     );
   }
 
+  renderProfileImage() {
+    return (
+      <div className="profile">
+        <img src={profile} alt="profile" className="profile-image" />
+        <div className="profile-name">Mustafa Yasin</div>
+      </div>
+    )
+  }
+  
   renderHello() {
 
     const lmu = "https://www.en.uni-muenchen.de/index.html";
@@ -26,9 +36,9 @@ export default class Home extends React.Component {
     return (
       <div>
         
-        <div className="profile">
+        {/* <div className="profile">
         <img src={profile} alt="profile" className="profile-image" />
-        </div>
+        </div> */}
 
         <h1>Hello!</h1>
         <p>
