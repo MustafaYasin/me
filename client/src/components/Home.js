@@ -19,7 +19,7 @@ export default class Home extends React.Component {
     return (
       <div className="profile">
         <img src={profile} alt="profile" className="profile-image" />
-        <div className="profile-name">Mustafa Yasin</div>
+        {/* <div className="profile-name">Mustafa Yasin</div> */}
       </div>
     )
   }
@@ -65,7 +65,7 @@ export default class Home extends React.Component {
   renderContact() {
     return (
       <div>
-        <h3>Contact Me</h3>
+        <h2>Contact Me</h2>
         <ul>
           <li>
             You can reach me at <a href="mailto:mustafa.yasin@campus.lmu.de">mustafa.yasin@campus.lmu.de</a>.
