@@ -21,7 +21,7 @@ export default class Courses extends React.Component {
           <Timeline.Item>
             <p>
               <b>Summer Semester 2020</b>
-              <br/>Computer Science: Algorithms and Data Structures
+              <br/>Computer Science: Data Structures and Algorithms 
             </p>
           </Timeline.Item>
         </Timeline>
