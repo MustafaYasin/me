@@ -37,7 +37,7 @@ export default class Courses extends React.Component {
         <Timeline>
         <Timeline.Item>
             <p>
-              <b>Sommer Semester 2020</b>
+              <b>Summer Semester 2020</b>
               <br/>Big Data Science Practicum
               <br/>Intelligent Systems
               <br/>Artificial Intelligence for Games
@@ -54,7 +54,7 @@ export default class Courses extends React.Component {
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Sommer Semester 2019</b>
+              <b>Summer Semester 2019</b>
               <br/>Computer Science: Machine Learning
               <br/>Computer Science: Algorithms and Data Structures
               <br/>Computer Science: Discrete Mathematics
@@ -71,7 +71,7 @@ export default class Courses extends React.Component {
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Sommer Semester 2018</b>
+              <b>Summer Semester 2018</b>
               <br/>Mechatronics: Embedded Systems I
               <br/>Mechatronics: Embedded Systems II
               <br/>Computer Science: Advanced C++
@@ -90,7 +90,7 @@ export default class Courses extends React.Component {
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Sommer Semester 2017</b>
+              <b>Summer Semester 2017</b>
               <br/>Mechatronics: Bachelor Thesis
               <br/>Mechatronics: Mechatronics Integration
               <br/>Mechatronics: Design Engineering II
