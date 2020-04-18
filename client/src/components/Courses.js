@@ -37,6 +37,16 @@ export default class Courses extends React.Component {
         <Timeline>
         <Timeline.Item>
             <p>
+              <b>Sommer Semester 2020</b>
+              <br/>Big Data Science Practicum
+              <br/>Intelligent Systems
+              <br/>Artificial Intelligence for Games
+              <br/>Infrastructure for Advanced Analytics and Machine Learning
+              <br/>Administration and Conception of Virtual Systems Practicum 
+            </p>
+        </Timeline.Item>
+        <Timeline.Item>
+            <p>
               <b>Winter Semester 2019-2020</b>
               <br/>Computer Science: Deep Learning and Artificial Intelligence
               <br/>Computer Science: Big Data Management and Analytics
