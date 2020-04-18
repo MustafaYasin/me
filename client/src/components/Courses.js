@@ -38,8 +38,8 @@ export default class Courses extends React.Component {
         <Timeline.Item>
             <p>
               <b>Summer Semester 2020</b>
-              <br/>Big Data Science Practicum
               <br/>Intelligent Systems
+              <br/>Big Data Science Practicum
               <br/>Artificial Intelligence for Games
               <br/>Infrastructure for Advanced Analytics and Machine Learning
               <br/>Administration and Conception of Virtual Systems Practicum 

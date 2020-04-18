@@ -54,7 +54,7 @@ export default class Home extends React.Component {
         </p>  
         
         <p>
-        In my free time, I travel and do different types of sport. After high school, I took a year off and traveled through Europe, where I learned a lot and was able to broaden my horizons. 
+        In my free time, I travel and do different types of sport. After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. 
         During this year, I worked as a waiter and a sneaker seller.
         </p>
         
