@@ -20,7 +20,7 @@ export default class App extends React.Component {
     return (
       <Router>
         <div className="app">
-       {this.renderProfileImage()}
+          {this.renderProfileImage()}
           {this.renderNavigation()}
           {this.renderRoutes()}
         </div>
