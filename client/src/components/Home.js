@@ -19,7 +19,6 @@ export default class Home extends React.Component {
     return (
       <div className="profile">
         <img src={profile} alt="profile" className="profile-image" />
-        {/* <div className="profile-name">Mustafa Yasin</div> */}
       </div>
     )
   }
@@ -30,16 +29,11 @@ export default class Home extends React.Component {
     const uts = "https://www.uts.edu.au/";
     const kamijo = "http://kmj.iis.u-tokyo.ac.jp/e_index.html";
     const pku = "http://english.pku.edu.cn/";
-    const siemens = "https://www.thecrimson.com/";
+    const siemens = "https://new.siemens.com/de/de.html";
     
 
     return (
       <div>
-        
-        {/* <div className="profile">
-        <img src={profile} alt="profile" className="profile-image" />
-        </div> */}
-
         <h1>Hello!</h1>
         <p>
           I'm Mustafa, a graduate computer science student at <a href={lmu}>The Ludwig Maximilian University of Munich</a>.

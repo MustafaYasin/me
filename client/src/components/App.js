@@ -9,8 +9,8 @@ import Projects from "./Projects";
 import Section from "./Section";
 import Analytics, { logResource } from "../Analytics";
 
-/***import profile from "../assets/profile.png";
-import "../css/App.css";***/
+//check if this is working well
+import "../css/App.css";
 
 const ButtonGroup = Button.Group;
 
