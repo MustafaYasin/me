@@ -40,9 +40,9 @@ export default class App extends React.Component {
 
     const links = (
       <Menu>
-        <Menu.Item>
+        {/* <Menu.Item>
           <a onClick={() => logResource("resume")} href="/resume"><Icon type="file-text" /> Resume</a>
-        </Menu.Item>
+        </Menu.Item> */}
         <Menu.Item>
           <a onClick={() => logResource("github")} href="https://github.com/MustafaYasin"><Icon type="github" /> GitHub</a>
         </Menu.Item>
@@ -74,7 +74,7 @@ export default class App extends React.Component {
       <div className="body">
         <Route path="/" component={Analytics} />
         <Route exact path="/" component={Home} />
-        <Route exact path="/projects" component={Projects} />
+        {/* <Route exact path="/projects" component={Projects} /> */}
         <Route exact path="/courses" component={Courses} />
         <Route exact path="/section" component={Section} />
       </div>
