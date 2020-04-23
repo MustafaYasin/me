@@ -5,7 +5,7 @@ import { Icon } from '@ant-design/compatible'
 
 import Courses from "./Courses";
 import Home from "./Home";
-import Projects from "./Projects";
+// import Projects from "./Projects";
 import Section from "./Section";
 import Analytics, { logResource } from "../Analytics";
 
@@ -59,7 +59,7 @@ export default class App extends React.Component {
       <div className="navigation">
         <ButtonGroup>
           <Button><Link to="/">Home</Link></Button>
-          <Button><Link to="/projects">Projects</Link></Button>
+          {/* <Button><Link to="/projects">Projects</Link></Button> */}
           <Button><Link to="/courses">Courses</Link></Button>
           <Dropdown overlay={links}>
             <Button>Links<Icon type="down" /></Button>
