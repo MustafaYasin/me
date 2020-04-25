@@ -11,6 +11,7 @@ import Analytics, { logResource } from "../Analytics";
 
 //check if this is working well
 import "../css/App.css";
+import profile from "../assets/profile.png";
 
 const ButtonGroup = Button.Group;
 
@@ -31,6 +32,7 @@ export default class App extends React.Component {
   renderProfileImage() {
     return (
       <div className="profile">
+        <img src={profile} alt="profile" className="profile-image" />
         <div className="profile-name">Mustafa Yasin</div>
       </div>
     )

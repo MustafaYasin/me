@@ -1,6 +1,4 @@
 import React from "react";
-
-import profile from "../assets/profile.png";
 import "../css/App.css";
 
 export default class Home extends React.Component {
@@ -8,21 +6,12 @@ export default class Home extends React.Component {
   render() {
     return (
       <div className="home">
-        {this.renderProfileImage()}
         {this.renderHello()}
         {this.renderContact()}
       </div>
     );
   }
 
-  renderProfileImage() {
-    return (
-      <div className="profile">
-        <img src={profile} alt="profile" className="profile-image" />
-      </div>
-    )
-  }
-  
   renderHello() {
 
     const lmu = "https://www.en.uni-muenchen.de/index.html";
