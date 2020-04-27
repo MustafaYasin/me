@@ -39,10 +39,10 @@ export default class Courses extends React.Component {
             <p>
               <b>Summer Semester 2020</b>
               <br/>Intelligent Systems
-              <br/>Big Data Science Practicum
+              <br/>Practical Course in Big Data Science
               <br/>Artificial Intelligence for Games
               <br/>Infrastructure for Advanced Analytics and Machine Learning
-              <br/>Administration and Conception of Virtual Systems Practicum 
+              <br/>Practical Course in Administration and Conception of Virtual Systems 
             </p>
         </Timeline.Item>
         <Timeline.Item>
