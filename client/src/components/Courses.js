@@ -71,7 +71,7 @@ export default class Courses extends React.Component {
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Summer Semester 2018</b>
+              <b>Summer Semester 2018 (Peking University)</b>
               <br/>Mechatronics: Embedded Systems I
               <br/>Mechatronics: Embedded Systems II
               <br/>Computer Science: Advanced C++
@@ -80,7 +80,7 @@ export default class Courses extends React.Component {
           </Timeline.Item>
           <Timeline.Item>
             <p>
-              <b>Winter Semester 2017 (Universtiy of Technology Sydney)</b>
+              <b>Winter Semester 2017 (University of Technology Sydney)</b>
               <br/>Elective: Academic English
               <br/>Computer Science: Testing and Quality Management
               <br/>Computer Science: Embedded Software

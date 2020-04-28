@@ -52,7 +52,7 @@ export default class App extends React.Component {
           <a onClick={() => logResource("linkedin")} href="https://www.linkedin.com/in/mustafayasin/"><Icon type="linkedin" /> LinkedIn</a>
         </Menu.Item>
         <Menu.Item>
-          <a onClick={() => logResource("Twitter")} href="https://twitter.com/darre1l"><Icon type="facebook" /> Twitter</a>
+          <a onClick={() => logResource("Twitter")} href="https://twitter.com/darre1l"><Icon type="twitter" /> Twitter</a>
         </Menu.Item>
       </Menu>
     );
