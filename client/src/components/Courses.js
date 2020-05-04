@@ -41,6 +41,7 @@ export default class Courses extends React.Component {
               <br/>Intelligent Systems
               <br/>Data Science (Practical Course)
               <br/>Artificial Intelligence for Games
+              <br/>Automous Systems (Practical Course)
               <br/>Infrastructure for Advanced Analytics and Machine Learning
               <br/>Administration and Conception of Virtual Systems (Practical Course)
             </p>
