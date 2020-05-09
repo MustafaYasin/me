@@ -39,7 +39,7 @@ export default class Courses extends React.Component {
             <p>
               <b>Summer 2020</b>
               <br/>Data Science Lab
-              <br/>Automous Systems Lab
+              <br/>Autonomous Systems Lab
               <br/>Intelligent Systems
               <br/>Artificial Intelligence for Games
               <br/>Infrastructure for Advanced Analytics and Machine Learning
