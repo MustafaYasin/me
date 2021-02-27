@@ -18,6 +18,18 @@ export default class Courses extends React.Component {
       <div>
         <h2>Courses I've Taught</h2>
         <Timeline>
+        <Timeline.Item>
+            <p>
+              <b>Summer 2021</b>
+              <br/>Computer Science: Data Structures and Algorithms 
+            </p>
+          </Timeline.Item>
+        <Timeline.Item>
+            <p>
+              <b>Summer 2020</b>
+              <br/>Computer Science: Software Engineering Lab 
+            </p>
+          </Timeline.Item>
           <Timeline.Item>
             <p>
               <b>Summer 2020</b>
@@ -41,9 +53,6 @@ export default class Courses extends React.Component {
               <br/>Data Science Lab
               <br/>Autonomous Systems Lab
               <br/>Intelligent Systems
-              <br/>Artificial Intelligence for Games
-              <br/>Infrastructure for Advanced Analytics and Machine Learning
-              <br/>Administration and Conception of Virtual Systems (Practical Course)
             </p>
         </Timeline.Item>
         <Timeline.Item>
