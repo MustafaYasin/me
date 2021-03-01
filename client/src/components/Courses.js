@@ -49,6 +49,16 @@ export default class Courses extends React.Component {
         <Timeline>
         <Timeline.Item>
             <p>
+              <b>Winter 2020-2021</b>
+              <br/>Introduction to Deep Learning (TUM)
+              <br/>Deep Learning for NLP
+              <br/>Newest Algorithms in Deep Learning for Text Classifictation Seminar
+              <br/>Grid and Cloud Computing
+              <br/>Sketching with Hardware
+            </p>
+        </Timeline.Item>
+        <Timeline.Item>
+            <p>
               <b>Summer 2020</b>
               <br/>Data Science Lab
               <br/>Autonomous Systems Lab

@@ -26,14 +26,14 @@ export default class Home extends React.Component {
       <div>
         <h1>Hello!</h1>
         <p>
-          I'm Mustafa, a graduate computer science student at <a href={lmu}>Ludwig Maximilian University of Munich</a>.
+          I'm Mustafa, a graduate computer science student at <a href={lmu}>University of Munich</a>.
           After graduating with a degree in Mechatronics in 2018, I spent a year abroad at <a href={uts}>The University of Technology Sydney</a> and <a href={pku}>Peking University</a>.
         </p>
 
         <p>
           Previously, I worked as a research intern for <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>,
           an undergraduate research assistant for <a href={pku}>Peking University (POSS Lab)</a>,
-          and a software engineering intern/working student for <a href={siemens}>Siemens</a>. Currently I'm employed as a working student at <a href={bcg}>Boston Consulting Group</a>.
+          and a software engineering intern/working student for <a href={siemens}>Siemens</a>. Currently, I'm employed as a working student at <a href={bcg}>Boston Consulting Group</a>.
           I'm interested in computer vision, algorithms, and education.
         </p>  
         
