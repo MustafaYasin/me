@@ -19,6 +19,7 @@ export default class Home extends React.Component {
     const kamijo = "http://kmj.iis.u-tokyo.ac.jp/e_index.html";
     const pku = "http://english.pku.edu.cn/";
     const siemens = "https://new.siemens.com/de/de.html";
+    const bcg = "https://www.bcg.com/de-de/";
     
 
     return (
@@ -30,10 +31,10 @@ export default class Home extends React.Component {
         </p>
 
         <p>
-          Previously, I worked as a research intern at <a href={kamijo}>The University of Tokyo (kamijo Lab)</a>,
-          an undergradute research assistant at <a href={pku}>Peking University</a>,
-          and a software engineering intern/working student at <a href={siemens}>Siemens</a>,
-          I'm interested in machine learning, robotics, algorithms, and education.
+          Previously, I worked as a research intern for <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>,
+          an undergraduate research assistant for <a href={pku}>Peking University (POSS Lab)</a>,
+          and a software engineering intern/working student for <a href={siemens}>Siemens</a>. Currently I'm employed as a working student at <a href={bcg}>Boston Consulting Group</a>.
+          I'm interested in computer vision, algorithms, and education.
         </p>  
         
         <p>
