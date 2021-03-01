@@ -25,13 +25,13 @@ export default class Home extends React.Component {
       <div>
         <h1>Hello!</h1>
         <p>
-          I'm Mustafa, a graduate computer science student at <a href={lmu}>The Ludwig Maximilian University of Munich</a>.
-          After graduating with a degree in Mechatronics in 2018, I spent 2 semesters abroad at <a href={uts}>The University of Technology Sydney</a> and <a href={pku}>The Peking University</a>.
+          I'm Mustafa, a graduate computer science student at <a href={lmu}>Ludwig Maximilian University of Munich</a>.
+          After graduating with a degree in Mechatronics in 2018, I spent a year abroad at <a href={uts}>The University of Technology Sydney</a> and <a href={pku}>Peking University</a>.
         </p>
 
         <p>
           Previously, I worked as a research intern at <a href={kamijo}>The University of Tokyo (kamijo Lab)</a>,
-          an undergradute research assistant at <a href={pku}>The Peking University</a>,
+          an undergradute research assistant at <a href={pku}>Peking University</a>,
           and a software engineering intern/working student at <a href={siemens}>Siemens</a>,
           I'm interested in machine learning, robotics, algorithms, and education.
         </p>  
