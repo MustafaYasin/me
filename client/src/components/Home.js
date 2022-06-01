@@ -20,6 +20,8 @@ export default class Home extends React.Component {
     const pku = "http://english.pku.edu.cn/";
     const siemens = "https://new.siemens.com/de/de.html";
     const bcg = "https://www.bcg.com/de-de/";
+    const adobe = "https://www.adobe.com/de/";
+    const eth = "https://ai.ethz.ch/";
     
 
     return (
@@ -33,7 +35,7 @@ export default class Home extends React.Component {
         <p>
           Previously, I worked as a research intern for <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>,
           an undergraduate research assistant for <a href={pku}>Peking University (POSS Lab)</a>,
-          and a software engineering intern/working student for <a href={siemens}>Siemens</a>. Currently, I'm employed as a working student at <a href={bcg}>Boston Consulting Group</a>.
+          a software engineering intern/working student for <a href={siemens}>Siemens</a>, and as a working student for <a href={bcg}>Boston Consulting Group</a>. Currently, I'm employed as a working student at <a href={adobe}>Adobe</a> doing my master's thesis at <a href={eth}>ETH Zurich AI Center</a>.
           I'm interested in computer vision, algorithms, and education.
         </p>  
         

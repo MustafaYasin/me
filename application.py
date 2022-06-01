@@ -3,7 +3,7 @@ from flask import Flask, jsonify, send_from_directory
 
 app = Flask(__name__)
 
-@app.route("/<path:path>")
+#@app.route("/<path:path>")
 @app.route("/")
 def index(path=""):
     return send_from_directory("client/build", "index.html")
