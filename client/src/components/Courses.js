@@ -20,6 +20,12 @@ export default class Courses extends React.Component {
         <Timeline>
         <Timeline.Item>
             <p>
+              <b>Summer 2022</b>
+              <br/>Computer Science: Data Structures and Algorithms 
+            </p>
+          </Timeline.Item>
+        <Timeline.Item>
+            <p>
               <b>Summer 2021</b>
               <br/>Computer Science: Data Structures and Algorithms 
             </p>
@@ -49,11 +55,31 @@ export default class Courses extends React.Component {
         <Timeline>
         <Timeline.Item>
             <p>
+              <b>Summer 2022</b>
+              <br/>Computer Vision Lab
+            </p>
+        </Timeline.Item>
+        <Timeline.Item>
+            <p>
+              <b>Winter 2021-2022</b>
+              <br/>Reinforcement Learning Lab
+              <br/>Introduction to Intelligent User Interfaces
+            </p>
+        </Timeline.Item>
+        <Timeline.Item>
+            <p>
+              <b>Summer 2021</b>
+              <br/>Artificial Intelligence For Games
+              <br/>Practical Machine Learning
+              <br/>Search Engines
+            </p>
+        </Timeline.Item>
+        <Timeline.Item>
+            <p>
               <b>Winter 2020-2021</b>
               <br/>Introduction to Deep Learning (TUM)
-              <br/>Deep Learning for NLP
+              <br/>Information Visualization
               <br/>Newest Algorithms in Deep Learning for Text Classifictation Seminar
-              <br/>Grid and Cloud Computing
               <br/>Sketching with Hardware
             </p>
         </Timeline.Item>
@@ -87,34 +113,6 @@ export default class Courses extends React.Component {
               <br/>Computer Science: Database Systems 
               <br/>Computer Science: Introduction to Programming in Java
               <br/>Computer Science: Operating Systems
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Summer 2018 (Peking University)</b>
-              <br/>Mechatronics: Embedded Systems I
-              <br/>Mechatronics: Embedded Systems II
-              <br/>Computer Science: Advanced C++
-              <br/>Computer Science: Computer Networks
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Winter 2017 (University of Technology Sydney)</b>
-              <br/>Elective: Academic English
-              <br/>Computer Science: Testing and Quality Management
-              <br/>Computer Science: Embedded Software
-              <br/>Mechatronics: Finite Element Method
-              <br/>Mechatronics: Mechanism Design and Analysis
-            </p>
-          </Timeline.Item>
-          <Timeline.Item>
-            <p>
-              <b>Summer 2017</b>
-              <br/>Mechatronics: Bachelor Thesis
-              <br/>Mechatronics: Mechatronics Integration
-              <br/>Mechatronics: Design Engineering II
-              <br/>Mechatronics: Manufacturing Engineering II
             </p>
           </Timeline.Item>
         </Timeline>
