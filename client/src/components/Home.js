@@ -35,8 +35,8 @@ export default class Home extends React.Component {
         <p>
           Previously, I worked as a research intern for <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>,
           an undergraduate research assistant for <a href={pku}>Peking University (POSS Lab)</a>,
-          a software engineering intern/working student for <a href={siemens}>Siemens</a>, and as a working student for <a href={bcg}>Boston Consulting Group</a>. Currently, I'm employed as a working student at <a href={adobe}>Adobe</a> doing my master's thesis at <a href={eth}>ETH Zurich AI Center</a>.
-          I'm interested in computer vision, algorithms, and education.
+          a software engineering intern/working student for <a href={siemens}>Siemens</a>, and as a working student for <a href={bcg}>Boston Consulting Group</a>. Currently, I'm employed as a working student at <a href={adobe}>Adobe</a>, doing my master's thesis and working as a student assistant at <a href={eth}>ETH Zurich AI Center</a>.
+          I'm interested in computer vision, algorithms, and entrepreneurship.
         </p>  
         
         <p>
