@@ -22,26 +22,35 @@ export default class Home extends React.Component {
     const bcg = "https://www.bcg.com/de-de/";
     const adobe = "https://www.adobe.com/de/";
     const eth = "https://ai.ethz.ch/";
+    const cds = "https://www.lmu-klinikum.de/radiologie/forschung/clinical-data-science/0e8a3ac188dad3f9";
     
 
     return (
       <div>
         <h1>Hello!</h1>
         <p>
-          I'm Mustafa, a graduate computer science student at <a href={lmu}>University of Munich</a>.
-          After graduating with a degree in Mechatronics in 2018, I spent a year abroad at <a href={uts}>The University of Technology Sydney</a> and <a href={pku}>Peking University</a>.
+         Hi, I'm Mustafa, a computer science graduate from the <a href={lmu}>University of Munich</a>. 
+         My academic journey began with a degree in Mechatronics in 2018 and broadened with experiences at <a href={uts}>The University of Technology Sydney</a> and <a href={pku}>Peking University</a>.
         </p>
 
         <p>
-          Previously, I worked as a research intern for <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>,
-          an undergraduate research assistant for <a href={pku}>Peking University (POSS Lab)</a>,
-          a software engineering intern/working student for <a href={siemens}>Siemens</a>, and as a working student for <a href={bcg}>Boston Consulting Group</a>. Currently, I'm employed as a working student at <a href={adobe}>Adobe</a>, doing my master's thesis and working as a student assistant at <a href={eth}>ETH Zurich AI Center</a>.
-          I'm interested in computer vision, algorithms, and entrepreneurship.
+          I've navigated a diverse professional landscape, including roles as a research intern at <a href={kamijo}>The University of Tokyo (Kamijo Lab)</a>, 
+          an undergraduate research assistant at <a href={pku}>Peking University (POSS Lab)</a>, and a software engineering intern at <a href={siemens}>Siemens</a>. 
+          As a working student at the <a href={bcg}>Boston Consulting Group</a>, I've also immersed myself in data.
+        </p>
+        
+        <p>
+          After a fulfilling tenure as a software engineer at <a href={adobe}>Adobe</a> and successfully defending my master's thesis at the <a href={eth}>ETH Zurich AI Center</a>, I'm now exploring the intricacies of deep learning and algorithms as a Computer Vision Research Assistant at the <a href={cds}>LMU Hospital (Clincal Data Science Group)</a>.
         </p>  
         
         <p>
-        In my free time, I travel and do different types of sport. After high school, I took a year off and traveled around Europe, where I learned a lot and was able to broaden my horizons. 
-        During this year, I worked as a waiter and a sneaker seller.
+          In addition to my passion for technology, I'm intrigued by the potential of entrepreneurship. I love contemplating innovative ideas and their transformative impact on society.
+        </p>
+        <p>
+          Beyond the professional sphere, I enjoy traveling and partaking in various sports. A gap year after high school led me across Europe, opening my horizons and offering unique roles such as a waiter and a sneaker seller.
+        </p>
+        <p>
+          Known for my positive outlook and approachable demeanor, I'm always ready for a lively exchange of ideas. So, whether it's discussing deep learning, brainstorming entrepreneurial ventures, or just swapping life experiences, feel free to reach out. I'm here to connect!
         </p>
         
       </div>
